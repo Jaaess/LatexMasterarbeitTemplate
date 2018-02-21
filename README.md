@@ -1,0 +1,2 @@
+# LatexMasterarbeitTemplate
+Vorlage für Masterarbeit
